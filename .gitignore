@@ -1,0 +1,13 @@
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb~
+# Python bytecode
+__pycache__/
+*.pyc
+# Virtual environments
+venv/
+env/
+# IDE settings
+.vscode/
+.idea/
+*.swp
